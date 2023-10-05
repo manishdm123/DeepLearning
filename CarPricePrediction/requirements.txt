@@ -1,0 +1,7 @@
+# local package
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+keras
